@@ -9,7 +9,7 @@
 ## **About Me**
 
 <a target="_blank" align="center">
-  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #2e86de; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" top="500" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #2e86de; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" top="500" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"(https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)">
 </a>
 
 <br>
