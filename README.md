@@ -85,11 +85,6 @@
 - Deployed on Oracle Cloud with custom domain  
 [View on GitHub](https://github.com/Marianoda20027/ContaminaDOS)
 
-### 🤖 Plasma Automation System  
-**Tech:** Python, Raspberry Pi  
-- Implemented real-time monitoring with voice control  
-- Developed during professional internship  
-
 <br>
 
 ## **Education**
