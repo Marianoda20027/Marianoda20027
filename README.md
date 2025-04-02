@@ -8,10 +8,7 @@
 
 ## **About Me**
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</a>
-
+![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 <br>
 
 - Final-year Business Informatics student at University of Costa Rica
@@ -88,7 +85,6 @@
 **Tech Stack:** Spring Boot, Next.js, MongoDB  
 - Real-time multiplayer educational game  
 - Deployed on Oracle Cloud Infrastructure  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-flat&logo=youtube&logoColor=white)](#)
 
 ### 🤖 Plasma Automation System  
 **Tech Stack:** Python, Raspberry Pi  
