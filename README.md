@@ -1,26 +1,38 @@
 <h1 align="center"><b>Hi, I'm Mariano Durán Artavia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;.NET+%7C+React+%7C+Spring+Boot;Business+Informatics+Student;Always+Learning+New+Tech"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;.NET+%7C+Spring+Boot+Specialist;Business+Computing+Student;Passionate+about+Cloud+%26+DevOps"></a>
 </p>
 
 <br>
 
-## **About me**
+## **About Me**
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
 <br>
 
-- Final-year Business Informatics student at University of Costa Rica
-- Passionate about cloud computing and full-stack development
-- Currently specializing in .NET and Spring Boot ecosystems
-- Developed applications with measurable impact on process efficiency
-- Reduced deployment times by 40% through CI/CD automation
+- Final year Business Computing student at University of Costa Rica
+- Full-stack developer with enterprise application experience
+- CI/CD automation enthusiast (Docker + GitHub Actions)
+- Passionate about solving complex problems with technology
+- Currently exploring microservices architectures
 
 <br><br>
+
+## **GitHub Stats**
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marianoda20027&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Marianoda20027)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianoda20027&layout=compact&theme=radical&hide_border=true)](https://github.com/Marianoda20027)
+
+</div>
+
+<br>
 
 ## **Technical Skills**
 
@@ -28,90 +40,65 @@
 
 - **Languages & Frameworks**:
     
-    ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <br>   
     
 - **Databases**:
   
-    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
-- **DevOps & Cloud**:
+- **Cloud & DevOps**:
 
-    ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
     
-<br>
-
-- **Tools**:
-
-    ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
 </p>
 
 <br>
-<br>
-
------
 
 ## **Featured Projects**
 
 ### 🛒 E-commerce Platform
-**Tech:** .NET, React, MySQL, Docker  
-- Full-stack implementation with product search and admin dashboard
-- Reduced deployment errors by 30% with CI/CD automation  
-[View on GitHub](https://github.com/Marianoda20027/lenguajes24)
+**Tech Stack:** .NET, React, Docker  
+- Complete system with admin dashboard  
+- CI/CD automation with GitHub Actions  
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/Marianoda20027/lenguajes24)
 
-### 🎮 ContaminaDos Multiplayer Game  
-**Tech:** Spring Boot, Next.js, MongoDB, OCI  
-- Real-time gameplay with WebSockets  
-- Deployed on Oracle Cloud with custom domain  
-[View on GitHub](https://github.com/Marianoda20027/ContaminaDOS)
-
-<br>
-
-## **Education**
-- **Bachelor's in Business Informatics** - University of Costa Rica (2021-Present)
-- **Technical Diploma in Business Informatics** - Oreamuno Technical College (2018-2020)
+### 🎮 ContaminaDos (Educational Game)  
+**Tech Stack:** Spring Boot, Next.js  
+- Real-time multiplayer game  
+- Deployed on Oracle Cloud  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-flat&logo=youtube&logoColor=white)](#)
 
 <br>
 
-## **Let's Connect!**
-<div align='left'>
-<ul>
-<li>
-  <a href="https://www.linkedin.com/in/mariano-durán-375334328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</li>
-<li>
-<a href="mailto:marianoda20027@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</li>
-<li>
-<a href="https://mariano-duran-portafolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</li>
-</ul>
+## **Let's Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariano-durán-375334328)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianoda20027@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mariano-duran-portafolio.vercel.app)
+
 </div>
 
 <br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200">
+</div>
+
+<div align="center">
+<b>"Technology is the art of turning ideas into reality"</b>
+</div>
