@@ -9,7 +9,7 @@
 ## **About Me**
 
 <a target="_blank" align="center">
-  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #2e86de; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" top="500" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"(https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)">
+  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,162,255,0.3); border: 1px solid #007acc; transition: all 0.3s ease; filter: brightness(1.05) saturate(1.1);" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 6px 16px rgba(0,162,255,0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,162,255,0.3)'" width="400" height="auto" alt="Cloud Architecture Animation" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
 </a>
 
 <br>
