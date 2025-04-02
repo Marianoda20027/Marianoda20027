@@ -9,10 +9,7 @@
 ## **About Me**
 
 <a target="_blank" align="center">
-  <div style="position: relative; display: inline-block;">
-    <img align="right" style="border-radius: 6px; border: 1px solid #1e88e5; box-shadow: 0 8px 16px rgba(30,136,229,0.3); filter: contrast(1.1) saturate(1.2); transition: all 0.4s cubic-bezier(0.25,0.8,0.25,1); width: 400px; height: auto;" onmouseover="this.style.transform='scale(1.025)'; this.style.boxShadow='0 12px 24px rgba(30,136,229,0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(30,136,229,0.3)'" src="https://media.giphy.com/media/Q5X6D5SDrqHZNLwXlA/giphy.gif">
-    <div style="position: absolute; bottom: 10px; left: 10px; background: rgba(0,0,0,0.7); color: #00e676; padding: 4px 8px; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 12px;">cloud-infra</div>
-  </div>
+  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,162,255,0.3); border: 1px solid #007acc; transition: all 0.3s ease; filter: brightness(1.05) saturate(1.1);" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 6px 16px rgba(0,162,255,0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,162,255,0.3)'" width="400" height="auto" alt="Cloud Architecture Animation" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
 </a>
 
 <br>
