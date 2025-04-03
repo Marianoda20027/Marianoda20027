@@ -95,7 +95,7 @@
 
 ## **Work Experience**
 
-### **Plasma Innova** | **Automation System Developer**  
+### **Plasma Innova** | **Automation System Developer Intern**  
 **2020**  
 - Developed a plasma cleaning system using Raspberry Pi and Python.  
 - Implemented real-time temperature monitoring and voice control for enhanced automation.
