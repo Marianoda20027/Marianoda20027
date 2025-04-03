@@ -9,16 +9,17 @@
 ## **About Me**
 
 <a target="_blank" align="center">
-  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #2e86de; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" top="500" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"(https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)">
+  <img align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #2e86de; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" top="500" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 </a>
 
 <br>
 
 - Final-year Business Informatics student at University of Costa Rica
-- Passionate about cloud computing and full-stack development
+- Passionate about cloud computing, full-stack development, and automation
 - Reduced deployment times by 40% through CI/CD automation
 - Currently diving into .NET and microservices architectures
 - Always open to new opportunities and collaborations
+- Eager to expand my knowledge in networking, especially in cybersecurity
 
 <br><br>
 
@@ -90,10 +91,29 @@
 - Deployed on Oracle Cloud Infrastructure
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/Marianoda20027/ContaminaDOS)
 
-### 🤖 Plasma Automation System  
-**Tech Stack:** Python, Raspberry Pi  
-- Implemented real-time monitoring with voice control  
-- Developed during professional internship  
+<br>
+
+## **Work Experience**
+
+### **Plasma Innova** | **Automation System Developer**  
+**2020**  
+- Developed a plasma cleaning system using Raspberry Pi and Python.  
+- Implemented real-time temperature monitoring and voice control for enhanced automation.
+
+<br>
+
+## **Soft Skills**
+- **Leadership & Team Collaboration**  
+- **Critical Thinking & Problem-Solving**  
+- **Adaptability in Fast-Paced Environments**  
+- **Strong Communication & Proactive Mindset**
+
+<br>
+
+## **Education**
+
+• **Bachelor’s Degree in Business Informatics** – University of Costa Rica (2021 – Present)  
+• **Technical High School Diploma in Business Informatics** – Oreamuno Technical Professional College (2018 – 2020)
 
 <br>
 
@@ -117,6 +137,3 @@
 
 </div>
 
-<br>
-
-<br>
