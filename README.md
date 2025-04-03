@@ -87,7 +87,8 @@
 ### 🎮 ContaminaDos - Interactive Game  
 **Tech Stack:** Spring Boot, Next.js, MongoDB  
 - Real-time multiplayer educational game  
-- Deployed on Oracle Cloud Infrastructure  
+- Deployed on Oracle Cloud Infrastructure
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/Marianoda20027/ContaminaDOS)
 
 ### 🤖 Plasma Automation System  
 **Tech Stack:** Python, Raspberry Pi  
