@@ -91,6 +91,17 @@
 - Deployed on Oracle Cloud Infrastructure
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/Marianoda20027/ContaminaDOS)
 
+### 🛒 Sales Platform
+**Tech Stack:** Spring Boot, React, PostgreSQL, Docker, Spring Cloud
+
+- Full-stack e-commerce application featuring product search, vendor publishing, and an admin dashboard  
+- Built with a microservices architecture for scalability and modularity  
+- Reduced deployment errors by 30% through CI/CD automation  
+- Enables SMEs to manage and sell their products efficiently
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Marianoda20027/sales_project)
+
+
 <br>
 
 ## **Work Experience**
